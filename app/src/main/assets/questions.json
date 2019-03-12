@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0",
+    "question": "Where did 2018 rank in terms of Earth’s average surface temperature",
+    "option1": "First",
+    "option2": "Fourth",
+    "option3": "Eighth",
+    "option4": "10th",
+    "answer": "Fourth"
+  },
+  {
+    "id": "1",
+    "question": "Which countries signed the 1987 Intermediate-Range Nuclear Forces Treaty?",
+    "option1": "Britain, China, France, Russia and the U.S.",
+    "option2": "China, India, Russia and the U.S.",
+    "option3": "China, Russia and the U.S.",
+    "option4": "Russia and the U.S.",
+    "answer": "Russia and the U.S."
+  },
+  {
+    "id": "2",
+    "question": "Nayid Bukele was elected president of which country?",
+    "option1": "El Salvador",
+    "option2": "Honduras",
+    "option3": "Nicaragua",
+    "option4": "Panama",
+    "answer": "El Salvador"
+  },
+  {
+    "id": "3",
+    "question": "How many combined points did the teams score in the last Super Bowl?",
+    "option1": "7",
+    "option2": "10",
+    "option3": "16",
+    "option4": "21",
+    "answer": "16"
+  }
+]
